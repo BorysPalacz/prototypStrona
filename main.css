@@ -1,0 +1,30 @@
+body{
+    background-color: #f4f4f4;
+}
+.art{
+    margin-bottom: 4em;
+}
+.videoWrapper {
+    max-width: 660px;
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+	margin: 0 auto;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.margin{
+	margin-left: 0.75rem;
+	margin-right: 0.75rem;
+}
+#renderCanvas {
+	width: 100%;
+	height: 100%;
+	touch-action: none;
+}

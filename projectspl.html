@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Borys Palacz - Mechanical Engineer Projekty</title>
+    <link rel="stylesheet" href="bulma.css">
+    <link rel="stylesheet" href="main.css">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" async src="https://www.googletagmanager.com/gtag/js?id=UA-130936216-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-130936216-1');
+</script>
+  </head>
+  <body>
+      <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
+          <div class="navbar-brand">
+              <a class="navbar-item" href="indexpl.html">
+                <img src="photo/logobul.svg">
+              </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </a>
+          </div>
+        
+          <div id="navbarBasicExample" class="navbar-menu">
+            <div class="navbar-start">
+              <a class="navbar-item is-size-5 is-active">
+                Projekty
+              </a>
+        
+              <a class="navbar-item is-size-5" href="contactpl.html">
+                Kontakt
+              </a>
+            </div>
+        
+            <div class="navbar-end">
+              <div class="navbar-item">
+                  <div class="navbar-item has-dropdown is-hoverable">
+                      <a class="navbar-link is-size-5 ">
+                        Language
+                      </a>
+              
+                      <div class="navbar-dropdown is-boxed">
+                        <a class="navbar-item" href="projects.html">
+                          English
+                        </a>
+                        <a class="navbar-item is-active">
+                          Polski
+                        </a>
+                      </div>
+                    </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+      <section class="hero is-fullheight-with-navbar">
+          <div class="hero-body has-text-centered">
+              <div class="container">
+                    <p class="is-size-3">
+                    Zdecydowałem, że podzielę projekty względem kraju w którym je wykonałem. Myślę, że Ci się spodobają.
+                     <br/> 
+                    <a class="has-text-danger is-size-1" href="irelandpl.html"> Irlandia</a>
+                    <br/>
+                     <a class="has-text-danger is-size-1" href="polandpl.html"> Polska</a> 
+                    </p>
+                </div>
+            </div>
+        
+        <footer class="footer">
+            <div class="content has-text-centered">
+              <p>
+                    Strona stworzona przez Borysa Palacza. Miłego dnia!
+              </p>
+            </div>
+          </footer>
+      </section>
+        
+    <script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', () => {
+const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+if ($navbarBurgers.length > 0) {
+
+  $navbarBurgers.forEach( el => {
+    el.addEventListener('click', () => {
+
+      const target = el.dataset.target;
+      const $target = document.getElementById(target);
+
+      el.classList.toggle('is-active');
+      $target.classList.toggle('is-active');
+
+    });
+  });
+}
+});
+    </script>
+  </body>
+</html>

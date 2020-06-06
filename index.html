@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Borys Palacz - Mechanical Engineer HOME</title>
+    <link rel="stylesheet" href="bulma.css">
+    <link rel="stylesheet" href="main.css">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" async src="https://www.googletagmanager.com/gtag/js?id=UA-130936216-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-130936216-1');
+</script>
+  </head>
+  <body>
+      <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
+          <div class="navbar-brand">
+              <a class="navbar-item" href="index.html">
+                <img src="photo/logobul.svg">
+              </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </a>
+          </div>
+        
+          <div id="navbarBasicExample" class="navbar-menu">
+            <div class="navbar-start">
+              <a class="navbar-item is-size-5" href="projects.html">
+                Projects
+              </a>
+        
+              <a class="navbar-item is-size-5" href="contact.html">
+                Contact
+              </a>
+            </div>
+        
+            <div class="navbar-end">
+              <div class="navbar-item">
+                  <div class="navbar-item has-dropdown is-hoverable">
+                      <a class="navbar-link is-size-5 ">
+                        Language
+                      </a>
+              
+                      <div class="navbar-dropdown is-boxed">
+                        <a class="navbar-item is-active">
+                          English
+                        </a>
+                        <a class="navbar-item" href="indexpl.html">
+                          Polski
+                        </a>
+                      </div>
+                    </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+      <section class="hero is-fullheight-with-navbar">
+          <div class="hero-body">
+              <div class="container">
+        <div class="columns">
+          <div class="column is-5">
+              <img class="my-svg" src="shadowboard.svg">
+              
+          </div>
+          <div class="column has-text-justified hero-body">
+            <p class="is-size-5">
+            I am mechanical engineer from beautiful country called Poland. Ever since I was in elementary school,
+             I have loved mechanics and design. I have decided to become an engineer and finally graduated Mechanical 
+            Engineering at Poznan University of Technology (Poland). I currently live in Poznan (Poland). 
+             I have experience as a Technology Department Manager in 
+             <a class="has-text-danger" href="http://www.fns.com.pl/en/home-en/">
+                 Special Tools Factory</a>. In Ireland 
+                 I have worked for 
+             <a class="has-text-danger" href="http://www.accutool.ie/">Accutool</a> as a Support Engineer. 
+           </p>
+          </div>
+          </div>
+        </div>
+        
+        </div>
+        <footer class="footer">
+            <div class="content has-text-centered">
+              <p>
+                Page has been created by Borys Palacz. Have a wonderful day!
+              </p>
+            </div>
+          </footer>
+      </section>
+        
+    <script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', () => {
+const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+if ($navbarBurgers.length > 0) {
+
+  $navbarBurgers.forEach( el => {
+    el.addEventListener('click', () => {
+
+      const target = el.dataset.target;
+      const $target = document.getElementById(target);
+
+      el.classList.toggle('is-active');
+      $target.classList.toggle('is-active');
+
+    });
+  });
+}
+});
+    </script>
+  </body>
+</html>
