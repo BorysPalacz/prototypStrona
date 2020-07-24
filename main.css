@@ -85,14 +85,14 @@ button{
 	margin: 0 auto;
 }
 #bigpic {
-	height: 350px;
+	height: 400px;
 }
 #but{
-	height: 350px;
+	height: 400px;
 	justify-content: center;
 }
 #abs{
-	margin-top: 169px;
+	margin-top: 219px;
 	outline: none;
 }
 button::-moz-focus-inner {
