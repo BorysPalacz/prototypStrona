@@ -1,0 +1,239 @@
+<!--?xml version="1.0"?-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="http://www.librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="344.99999881mm" height="275.00000596mm" viewBox="0 0 344.99999881 275.00000596" style="">
+   <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+
+        <!-- External lines -->
+        <path d="M344.99999881,0L0,0" class="nNDapcnP_0"></path>
+        <path d="M344.99999881,275.00000596L344.99999881,0" class="nNDapcnP_1"></path>
+        <path d="M0,275.00000596L344.99999881,275.00000596" class="nNDapcnP_2"></path>
+        <path d="M0,0L0,275.00000596" class="nNDapcnP_3"></path>   
+
+        
+        <!-- Start draw -->
+    
+        <!-- Part 2 -->
+        <path d="M21.9999994,10.00000298 A4,4 0 0,0 17.9999994,14.00000298 " class="nNDapcnP_4"></path>
+        <path d="M18.00000668,14.00000602L18.00000668,54.9999997" class="nNDapcnP_5"></path>
+        <path d="M13.99999857,54.9999997L18.00000668,54.9999997" class="nNDapcnP_6"></path>
+        <path d="M13.9999994,55.00000298 A10,10 0 0,0 3.9999994,65.00000298 " class="nNDapcnP_7"></path>
+        <path d="M3.99999321,65.00000507L3.99999321,70.0000003" class="nNDapcnP_8"></path>
+        <path d="M3.9999994,70.00000298 A10,10 0 0,0 13.9999994,80.00000298 " class="nNDapcnP_9"></path>
+        <path d="M13.99999857,80.00000194L18.00000668,80.00000194" class="nNDapcnP_10"></path>
+        <path d="M18.00000668,80.00000194L18.00000668,159.00000371" class="nNDapcnP_11"></path>
+        <path d="M17.9999994,159.00000298 A4,4 0 0,0 21.9999994,163.00000298 " class="nNDapcnP_12"></path>
+        <path d="M49.00000244,163.0000025L21.99999988,163.0000025" class="nNDapcnP_13"></path>
+        <path d="M48.9999994,163.00000298 A4,4 0 0,0 52.9999994,159.00000298 " class="nNDapcnP_14"></path>
+        <path d="M53.0000031,154.15072627L53.0000031,159.00000371" class="nNDapcnP_15"></path>
+        <path d="M52.9999994,154.15072665 A4,4 0 0,0 50.03527558,150.28702334 " class="nNDapcnP_16"></path>
+        <path d="M41.50000215,148.00000284L50.03527552,150.28702375" class="nNDapcnP_17"></path>
+        <path d="M41.4999994,123.00000298 A12.5,12.5 0 0,0 41.4999994,148.00000298 " class="nNDapcnP_18"></path>
+        <path d="M41.50000215,123.0000034L50.03527552,120.71298249" class="nNDapcnP_19"></path>
+        <path d="M50.03527558,120.71298262 A4,4 0 0,0 52.9999994,116.84927932 " class="nNDapcnP_20"></path>
+        <path d="M53.0000031,80.00000194L53.0000031,116.84927903" class="nNDapcnP_21"></path>
+        <path d="M53.0000031,80.00000194L56.9999963,80.00000194" class="nNDapcnP_22"></path>
+        <path d="M56.9999994,80.00000298 A10,10 0 0,0 66.9999994,70.00000298 " class="nNDapcnP_23"></path>
+        <path d="M67.00000167,65.00000507L67.00000167,70.0000003" class="nNDapcnP_24"></path>
+        <path d="M66.9999994,65.00000298 A10,10 0 0,0 56.9999994,55.00000298 " class="nNDapcnP_25"></path>
+        <path d="M53.0000031,54.9999997L56.9999963,54.9999997" class="nNDapcnP_26"></path>
+        <path d="M53.0000031,14.00000602L53.0000031,54.9999997" class="nNDapcnP_27"></path>
+        <path d="M52.9999994,14.00000298 A4,4 0 0,0 48.9999994,10.00000298 " class="nNDapcnP_28"></path>
+        <path d="M49.00000244,10.00000536L21.99999988,10.00000536" class="nNDapcnP_29"></path>
+        <path d="M36.4999994,114.84500298A4,4 0,1,1 44.4999994,114.84500298A4,4 0,1,1 36.4999994,114.84500298" class="nNDapcnP_30"></path>
+        <path d="M36.4999994,156.15500298A4,4 0,1,1 44.4999994,156.15500298A4,4 0,1,1 36.4999994,156.15500298" class="nNDapcnP_31"></path>
+
+        <!-- Part 1 -->
+        <path d="M241.9999994,256.00000298 A3,3 0 0,0 244.9999994,253.00000298" class="nNDapcnP_32"></path>
+        <path d="M244.99999732,227.25000232L244.99999732,253.00000608" class="nNDapcnP_33"></path>
+        <path d="M244.9999994,227.25000298 A3,3 0 0,0 241.9999994,224.25000298" class="nNDapcnP_34"></path>
+        <path d="M241.99999869,224.2500037L241.49999768,224.2500037" class="nNDapcnP_35"></path> 
+        <path d="M241.4999994,224.25000298 A3,3 0 0,0 238.4999994,227.25000298" class="nNDapcnP_36"></path>
+        <path d="M238.49999905,246.50000036L238.49999905,227.25000232" class="nNDapcnP_37"></path>
+        <path d="M235.4999994,249.50000298 A3,3 0 0,0 238.4999994,246.50000298" class="nNDapcnP_38"></path>
+        <path d="M190.24999999,249.50000644L235.50000042,249.50000644" class="nNDapcnP_39"></path>
+        <path d="M189.2499994,248.50000298 A1,1 0 0,0 190.2499994,249.50000298" class="nNDapcnP_40"></path>
+        <path d="M189.24999982,248.50000441L189.24999982,244.50000376" class="nNDapcnP_41"></path>
+        <path d="M189.2499994,244.50000298 A10,10 0 0,0 179.2499994,234.50000298 " class="nNDapcnP_42"></path>
+        <path d="M174.24999946,234.50000584L179.24999958,234.50000584" class="nNDapcnP_43"></path>
+        <path d="M174.2499994,234.50000298 A10,10 0 0,0 164.2499994,244.50000298 " class="nNDapcnP_44"></path>
+        <path d="M164.24999945,248.50000441L164.24999945,244.50000376" class="nNDapcnP_45"></path>
+        <path d="M163.2499994,249.50000298 A1,1 0 0,0 164.2499994,248.50000298 " class="nNDapcnP_46"></path>
+        <path d="M114.25000057,249.50000644L163.24999928,249.50000644" class="nNDapcnP_47"></path>
+        <path d="M114.2499994,249.50000298 A3,3 0 0,0 111.2499994,252.50000298 " class="nNDapcnP_48"></path>
+        <path d="M111.24999821,253.00000608L111.24999821,252.50000507" class="nNDapcnP_49"></path>
+        <path d="M111.2499994,253.00000298 A3,3 0 0,0 114.2499994,256.00000298 " class="nNDapcnP_50"></path>
+        <path d="M114.25000057,256.00000471L163.24999928,256.00000471" class="nNDapcnP_51"></path>
+        <path d="M164.2499994,257.00000298 A1,1 0 0,0 163.2499994,256.00000298 " class="nNDapcnP_52"></path>
+        <path d="M164.24999945,260.99999994L164.24999945,256.99999928" class="nNDapcnP_53"></path>
+        <path d="M164.2499994,261.00000298 A10,10 0 0,0 174.2499994,271.00000298 " class="nNDapcnP_54"></path>
+        <path d="M174.24999946,270.99999785L179.24999958,270.99999785" class="nNDapcnP_55"></path>
+        <path d="M179.2499994,271.00000298 A10,10 0 0,0 189.2499994,261.00000298 " class="nNDapcnP_56"></path>
+        <path d="M189.24999982,260.99999994L189.24999982,256.99999928" class="nNDapcnP_57"></path>
+        <path d="M190.2499994,256.00000298 A1,1 0 0,0 189.2499994,257.00000298 " class="nNDapcnP_58"></path>
+        <path d="M190.24999999,256.00000471L241.99999869,256.00000471" class="nNDapcnP_59"></path>
+
+        <!-- Part 3 -->
+        <path d="M155.71858523,121.95980095 A4,4 0 0,0 156.28427065,122.00000298 " class="nNDapcnP_60"></path>
+        <path d="M156.28427081,122.00000323L163.99999894,122.00000323" class="nNDapcnP_61"></path>
+        <path d="M163.9999994,122.00000298 A4,4 0 0,0 167.9999994,118.00000298 " class="nNDapcnP_62"></path>
+        <path d="M167.9999996,118.00000258L167.9999996,112.50000261" class="nNDapcnP_63"></path>
+        <path d="M168.9999994,111.50000298 A1,1 0 0,0 167.9999994,112.50000298 " class="nNDapcnP_64"></path>
+        <path d="M168.9999993,111.50000244L336.9999975,111.50000244" class="nNDapcnP_65"></path>
+        <path d="M336.9999994,111.50000298 A4,4 0 0,0 340.9999994,107.50000298 " class="nNDapcnP_66"></path>
+        <path d="M341.0000056,102.50000283L341.0000056,107.50000365" class="nNDapcnP_67"></path>
+        <path d="M340.9999994,102.50000298 A4,4 0 0,0 336.9999994,98.50000298 " class="nNDapcnP_68"></path>
+        <path d="M168.9999993,98.50000218L336.9999975,98.50000218" class="nNDapcnP_69"></path>
+        <path d="M167.9999994,97.50000298 A1,1 0 0,0 168.9999994,98.50000298 " class="nNDapcnP_70"></path>
+        <path d="M167.9999996,92.0000039L167.9999996,97.50000387" class="nNDapcnP_71"></path>
+        <path d="M167.9999994,92.00000298 A4,4 0 0,0 163.9999994,88.00000298 " class="nNDapcnP_72"></path>
+        <path d="M156.28427081,88.00000325L163.99999894,88.00000325" class="nNDapcnP_73"></path>
+        <path d="M156.28427065,88.00000298 A4,4 0 0,0 155.71858523,88.04020501 " class="nNDapcnP_74"></path>
+        <path d="M154.1414205,88.26551586L155.71858548,88.04020658" class="nNDapcnP_75"></path>
+        <path d="M152.9999994,87.27556472 A1,1 0 0,0 154.14142076,88.26551422 " class="nNDapcnP_76"></path>
+        <path d="M152.999999,87.27556467L152.999999,86.00000292" class="nNDapcnP_77"></path>
+        <path d="M152.9999994,86.00000298 A10,10 0 0,0 142.9999994,76.00000298 " class="nNDapcnP_78"></path>
+        <path d="M142.99999923,76.00000128L138.00000027,76.00000128" class="nNDapcnP_79"></path>
+        <path d="M137.9999994,76.00000298 A10,10 0 0,0 127.9999994,86.00000298 " class="nNDapcnP_80"></path>
+        <path d="M127.99999863,87.11722121L127.99999863,86.00000292" class="nNDapcnP_81"></path>
+        <path d="M126.87596467,88.10949864 A1,1 0 0,0 127.9999994,87.11722076 " class="nNDapcnP_82"></path>
+        <path d="M97.99999744,84.50000361L126.87596306,88.10949698" class="nNDapcnP_83"></path>
+        <path d="M93.99999678,84.50000361L97.99999744,84.50000361" class="nNDapcnP_84"></path>
+        <path d="M70.0000003,88.50000426L93.99999678,84.50000361" class="nNDapcnP_85"></path>
+        <path d="M69.9999994,88.50000298 A15.60476143,15.60476143 0 0,0 56.9999994,105.00000298 " class="nNDapcnP_86"></path>
+        <path d="M56.9999994,105.00000298 A15.60476143,15.60476143 0 0,0 69.9999994,121.50000298 " class="nNDapcnP_87"></path>
+        <path d="M70.0000003,121.50000222L93.99999678,125.50000288" class="nNDapcnP_88"></path>
+        <path d="M93.99999678,125.50000288L97.99999744,125.50000288" class="nNDapcnP_89"></path>
+        <path d="M97.99999744,125.50000288L126.87596306,121.89050764" class="nNDapcnP_90"></path>
+        <path d="M127.9999994,122.8827852 A1,1 0 0,0 126.87596467,121.89050732 " class="nNDapcnP_91"></path>
+        <path d="M127.99999863,124.00000263L127.99999863,122.88278528" class="nNDapcnP_92"></path>
+        <path d="M127.9999994,124.00000298 A10,10 0 0,0 137.9999994,134.00000298 " class="nNDapcnP_93"></path>
+        <path d="M142.99999923,134.00000287L138.00000027,134.00000287" class="nNDapcnP_94"></path>
+        <path d="M142.9999994,134.00000298 A10,10 0 0,0 152.9999994,124.00000298 " class="nNDapcnP_95"></path>
+        <path d="M152.999999,124.00000263L152.999999,122.72444088" class="nNDapcnP_96"></path>
+        <path d="M154.14142076,121.73449175 A1,1 0 0,0 152.9999994,122.72444124 " class="nNDapcnP_97"></path>
+        <path d="M154.1414205,121.73449248L155.71858548,121.95980083" class="nNDapcnP_98"></path>
+
+        <!-- Part3 -->
+        <path d="M241.9999994,75.00000298 A10,10 0 0,0 251.9999994,85.00000298 " class="nNDapcnP_99"></path>
+        <path d="M302.00000107,85.00000462L251.9999966,85.00000462" class="nNDapcnP_100"></path>
+        <path d="M301.9999994,85.00000298 A10,10 0 0,0 311.9999994,75.00000298 " class="nNDapcnP_101"></path>
+        <path d="M312.00000644,72.00000435L312.00000644,75.00000298" class="nNDapcnP_102"></path>
+        <path d="M312.9999994,71.00000298 A1,1 0 0,0 311.9999994,72.00000298 " class="nNDapcnP_103"></path>
+        <path d="M312.99999356,71.00000232L332.00000227,71.00000232" class="nNDapcnP_104"></path>
+        <path d="M331.9999994,71.00000298 A5,5 0 0,0 336.9999994,66.00000298 " class="nNDapcnP_105"></path>
+        <path d="M336.9999975,23.00000191L336.9999975,65.99999964" class="nNDapcnP_106"></path>
+        <path d="M336.9999994,23.00000298 A5,5 0 0,0 331.9999994,18.00000298 " class="nNDapcnP_107"></path>
+        <path d="M312.99999356,18.00000668L332.00000227,18.00000668" class="nNDapcnP_108"></path>
+        <path d="M311.9999994,17.00000298 A1,1 0 0,0 312.9999994,18.00000298 " class="nNDapcnP_109"></path>
+        <path d="M312.00000644,17.00000465L312.00000644,14.00000602" class="nNDapcnP_110"></path>
+        <path d="M311.9999994,14.00000298 A10,10 0 0,0 301.9999994,4.00000298 " class="nNDapcnP_111"></path>
+        <path d="M251.9999966,4.00000811L302.00000107,4.00000811" class="nNDapcnP_112"></path>
+        <path d="M251.9999994,4.00000298 A10,10 0 0,0 241.9999994,14.00000298 " class="nNDapcnP_113"></path>
+        <path d="M241.99999869,18.00000668L241.99999869,14.00000602" class="nNDapcnP_114"></path>
+        <path d="M240.9999994,19.00000298 A1,1 0 0,0 241.9999994,18.00000298 " class="nNDapcnP_115"></path>
+        <path d="M240.99999666,19.00000125L159.266809,19.00000125" class="nNDapcnP_116"></path>
+        <path d="M158.73470536,18.97160897 A5,5 0 0,0 159.2668086,19.00000298 " class="nNDapcnP_117"></path>
+        <path d="M158.7347053,18.97160709L150.20161122,18.05832237" class="nNDapcnP_118"></path>
+        <path d="M150.20161128,18.05832521 A49.79847291,49.79847291 0 0,0 147.79218916,18.00000298 " class="nNDapcnP_119"></path>
+        <path d="M147.79218845,18.00000668L100.10927916,18.00000668" class="nNDapcnP_120"></path>
+        <path d="M100.10927962,18.00000298 A20,20 0 0,0 86.89672173,22.98573264 " class="nNDapcnP_121"></path>
+        <path d="M86.896725,22.98573405L83.90642703,25.61718971" class="nNDapcnP_122"></path>
+        <path d="M83.90642869,25.61719051 A40,40 0 0,0 70.33154449,55.64573119 " class="nNDapcnP_123"></path>
+        <path d="M70.33154368,55.64573407L70.33154368,62.88460642" class="nNDapcnP_124"></path>
+        <path d="M70.33154449,62.88460645 A11.39716019,11.39716019 0 0,0 84.64617722,73.90202966 " class="nNDapcnP_125"></path>
+        <path d="M84.64617723,73.90202966 A310.28409197,310.28409197 0 0,0 91.97322314,71.00000298 " class="nNDapcnP_126"></path>
+        <path d="M91.97322279,71.00000232L113.25032264,62.25857139" class="nNDapcnP_127"></path>
+        <path d="M120.91231483,62.89450986 A8.44457636,8.44457636 0 0,0 113.25032271,62.25857265 " class="nNDapcnP_128"></path>
+        <path d="M120.91231346,62.89450824L127.51707807,66.99345261" class="nNDapcnP_129"></path>
+        <path d="M127.51707651,66.99345467 A20,20 0 0,0 138.06328909,70.00000298 " class="nNDapcnP_130"></path>
+        <path d="M138.06328923,70.0000003L240.99999666,70.0000003" class="nNDapcnP_131"></path>
+        <path d="M241.9999994,71.00000298 A1,1 0 0,0 240.9999994,70.00000298 " class="nNDapcnP_132"></path>
+        <path d="M241.99999869,71.00000232L241.99999869,75.00000298" class="nNDapcnP_133"></path>
+
+        <!-- Part4 -->
+        <path d="M152.4999994,153.25000298 A4.25,4.25 0 1,0 146.7499994,147.50000298 " class="nNDapcnP_134"></path>
+        <path d="M108.24999958,147.50000276L146.74999937,147.50000276" class="nNDapcnP_135"></path>
+        <path d="M108.2499994,147.50000298 A4.25,4.25 0 1,0 102.4999994,153.25000298 " class="nNDapcnP_136"></path>
+        <path d="M102.49999911,226.75000131L102.49999911,153.25000323" class="nNDapcnP_137"></path>
+        <path d="M102.4999994,226.75000298 A4.25,4.25 0 1,0 108.2499994,232.50000298 " class="nNDapcnP_138"></path>
+        <path d="M108.24999958,232.50000179L146.74999937,232.50000179" class="nNDapcnP_139"></path>
+        <path d="M146.7499994,232.50000298 A4.25,4.25 0 1,0 152.4999994,226.75000298 " class="nNDapcnP_140"></path>
+        <path d="M152.49999985,226.75000131L152.49999985,153.25000323" class="nNDapcnP_141"></path>
+
+        <!-- Part5 -->
+        <path d="M67.5999994,242.60000298 A10,10 0 0,0 77.5999994,232.60000298 " class="nNDapcnP_142"></path>
+        <path d="M77.60000229,232.60000348L77.60000229,227.6000008" class="nNDapcnP_143"></path>
+        <path d="M77.5999994,227.60000298 A10,10 0 0,0 67.5999994,217.60000298 " class="nNDapcnP_144"></path>
+        <path d="M63.59999627,217.60000288L67.59999692,217.60000288" class="nNDapcnP_145"></path>
+        <path d="M62.5999994,216.60000298 A1,1 0 0,0 63.5999994,217.60000298 " class="nNDapcnP_146"></path>
+        <path d="M62.60000169,216.60000086L62.60000169,205.60000092" class="nNDapcnP_147"></path>
+        <path d="M63.5999994,204.60000298 A1,1 0 0,0 62.5999994,205.60000298 " class="nNDapcnP_148"></path>
+        <path d="M63.59999627,204.60000634L90.49999714,204.60000634" class="nNDapcnP_149"></path>
+        <path d="M90.4999994,204.60000298 A3,3 0 0,0 93.4999994,201.60000298 " class="nNDapcnP_150"></path>
+        <path d="M93.49999577,201.60000026L93.49999577,197.40000367" class="nNDapcnP_151"></path>
+        <path d="M93.4999994,197.40000298 A3,3 0 0,0 90.4999994,194.40000298 " class="nNDapcnP_152"></path>
+        <path d="M63.59999627,194.40000132L90.49999714,194.40000132" class="nNDapcnP_153"></path>
+        <path d="M62.5999994,193.40000298 A1,1 0 0,0 63.5999994,194.40000298 " class="nNDapcnP_154"></path>
+        <path d="M62.60000169,193.40000302L62.60000169,190.40000439" class="nNDapcnP_155"></path>
+        <path d="M62.5999994,190.40000298 A3,3 0 0,0 59.5999994,187.40000298 " class="nNDapcnP_156"></path>
+        <path d="M40.39999843,187.40000203L59.60000306,187.40000203" class="nNDapcnP_157"></path>
+        <path d="M40.3999994,187.40000298 A3,3 0 0,0 37.3999994,190.40000298 " class="nNDapcnP_158"></path>
+        <path d="M37.39999235,193.40000302L37.39999235,190.40000439" class="nNDapcnP_159"></path>
+        <path d="M36.3999994,194.40000298 A1,1 0 0,0 37.3999994,193.40000298 " class="nNDapcnP_160"></path>
+        <path d="M9.4999969,194.40000132L36.40000522,194.40000132" class="nNDapcnP_161"></path>
+        <path d="M9.4999994,194.40000298 A3,3 0 0,0 6.4999994,197.40000298 " class="nNDapcnP_162"></path>
+        <path d="M6.50000572,201.60000026L6.50000572,197.40000367" class="nNDapcnP_163"></path>
+        <path d="M6.4999994,201.60000298 A3,3 0 0,0 9.4999994,204.60000298 " class="nNDapcnP_164"></path>
+        <path d="M9.4999969,204.60000634L36.40000522,204.60000634" class="nNDapcnP_165"></path>
+        <path d="M37.3999994,205.60000298 A1,1 0 0,0 36.3999994,204.60000298 " class="nNDapcnP_166"></path>
+        <path d="M37.39999235,216.60000086L37.39999235,205.60000092" class="nNDapcnP_167"></path>
+        <path d="M36.3999994,217.60000298 A1,1 0 0,0 37.3999994,216.60000298 " class="nNDapcnP_168"></path>
+        <path d="M32.39999712,217.60000288L36.40000522,217.60000288" class="nNDapcnP_169"></path>
+        <path d="M32.3999994,217.60000298 A10,10 0 0,0 22.3999994,227.60000298 " class="nNDapcnP_170"></path>
+        <path d="M22.40000665,232.60000348L22.40000665,227.6000008" class="nNDapcnP_171"></path>
+        <path d="M22.3999994,232.60000298 A10,10 0 0,0 32.3999994,242.60000298 " class="nNDapcnP_172"></path>
+        <path d="M32.39999712,242.60000139L36.40000522,242.60000139" class="nNDapcnP_173"></path>
+        <path d="M37.3999994,243.60000298 A1,1 0 0,0 36.3999994,242.60000298 " class="nNDapcnP_174"></path>
+        <path d="M37.39999235,259.60000604L37.39999235,243.60000342" class="nNDapcnP_175"></path>
+        <path d="M37.3999994,259.60000298 A3,3 0 0,0 40.3999994,262.60000298 " class="nNDapcnP_176"></path>
+        <path d="M40.39999843,262.60000467L59.60000306,262.60000467" class="nNDapcnP_177"></path>
+        <path d="M59.5999994,262.60000298 A3,3 0 0,0 62.5999994,259.60000298 " class="nNDapcnP_178"></path>
+        <path d="M62.60000169,259.60000604L62.60000169,243.60000342" class="nNDapcnP_179"></path>
+        <path d="M63.5999994,242.60000298 A1,1 0 0,0 62.5999994,243.60000298 " class="nNDapcnP_180"></path>
+        <path d="M63.59999627,242.60000139L67.59999692,242.60000139" class="nNDapcnP_181"></path>
+
+        <!-- Part6 -->
+        <path d="M328.50127208,137.20776013 A7,7 0 0,0 332.79928105,128.3978479 " class="nNDapcnP_182"></path>
+        <path d="M330.84644377,122.53933214L332.79928565,128.39784753" class="nNDapcnP_183"></path>
+        <path d="M330.84644236,122.53933186 A7,7 0 0,0 323.07794727,117.84436156 " class="nNDapcnP_184"></path>
+        <path d="M323.07794727,117.84436156 A148.20513961,148.20513961 0 0,0 241.44172173,160.03714489 " class="nNDapcnP_185"></path>
+        <path d="M238.09821078,159.19387784 A2,2 0 0,0 241.44172173,160.03714489 " class="nNDapcnP_186"></path>
+        <path d="M238.09821078,159.19387784 A10,10 0 0,0 228.4999994,152.00000298 " class="nNDapcnP_187"></path>
+        <path d="M223.49701822,152.00000256L228.50000113,152.00000256" class="nNDapcnP_188"></path>
+        <path d="M223.49702003,152.00000298 A10,10 0 0,0 213.73995862,159.80916918 " class="nNDapcnP_189"></path>
+        <path d="M211.40060333,161.33301675 A2,2 0 0,0 213.73995862,159.80916918 " class="nNDapcnP_190"></path>
+        <path d="M211.40060333,161.33301675 A300,300 0 0,0 174.68026304,156.4045 " class="nNDapcnP_191"></path>
+        <path d="M174.68026304,156.4045 A7,7 0 0,0 167.22721621,162.56866014 " class="nNDapcnP_192"></path>
+        <path d="M166.72254447,166.85837135L167.22721606,162.56866045" class="nNDapcnP_193"></path>
+        <path d="M166.72254436,166.85837084 A7,7 0 0,0 171.90861719,174.44983394 " class="nNDapcnP_194"></path>
+        <path d="M202.90771944,185.16627344 A211.00043197,211.00043197 0 0,0 171.90861719,174.44983394 " class="nNDapcnP_195"></path>
+        <path d="M202.90771944,188.83373252 A2,2 0 0,0 202.90771944,185.16627344 " class="nNDapcnP_196"></path>
+        <path d="M171.90861719,199.55017202 A211.00043197,211.00043197 0 0,0 202.90771944,188.83373252 " class="nNDapcnP_197"></path>
+        <path d="M171.90861719,199.55017202 A7,7 0 0,0 166.72254436,207.14163512 " class="nNDapcnP_198"></path>
+        <path d="M166.72254447,207.1416378L167.22721606,211.43134683" class="nNDapcnP_199"></path>
+        <path d="M167.22721621,211.43134582 A7,7 0 0,0 174.68026304,217.59550596 " class="nNDapcnP_200"></path>
+        <path d="M174.68026304,217.59550596 A300,300 0 0,0 211.40060333,212.66698921 " class="nNDapcnP_201"></path>
+        <path d="M213.73995862,214.19083678 A2,2 0 0,0 211.40060333,212.66698921 " class="nNDapcnP_202"></path>
+        <path d="M213.73995862,214.19083678 A10,10 0 0,0 223.49702003,222.00000298 " class="nNDapcnP_203"></path>
+        <path d="M223.49701822,222.00000286L228.50000113,222.00000286" class="nNDapcnP_204"></path>
+        <path d="M228.4999994,222.00000298 A10,10 0 0,0 238.09821078,214.80612812 " class="nNDapcnP_205"></path>
+        <path d="M241.44172173,213.96286107 A2,2 0 0,0 238.09821078,214.80612812 " class="nNDapcnP_206"></path>
+        <path d="M241.44172173,213.96286107 A148.20513961,148.20513961 0 0,0 323.07794727,256.1556444" class="nNDapcnP_207"></path>
+        <path d="M323.07794727,256.1556444 A7,7 0 0,0 330.84644236,251.46067411 " class="nNDapcnP_208"></path>
+        <path d="M330.84644377,251.46067142L332.79928565,245.60216069" class="nNDapcnP_209"></path>
+        <path d="M332.79928105,245.60215806 A7,7 0 0,0 328.50127208,236.79224583 " class="nNDapcnP_210"></path>
+        <path d="M246.67388715,188.49685203 A249.06524393,249.06524393 0 0,0 328.50127208,236.79224583 " class="nNDapcnP_211"></path>
+        <path d="M246.67388716,185.50315393 A2,2 0 0,0 246.67388716,188.49685203 " class="nNDapcnP_212"></path>
+        <path d="M328.50127208,137.20776013 A249.06524393,249.06524393 0 0,0 246.67388715,185.50315393 " class="nNDapcnP_213"></path>
+    </g> 
+<style data-made-with="vivus-instant">.nNDapcnP_0{stroke-dasharray:345 347;stroke-dashoffset:346;animation:nNDapcnP_draw 342ms linear 0ms forwards;}.nNDapcnP_1{stroke-dasharray:275 277;stroke-dashoffset:276;animation:nNDapcnP_draw 273ms linear 342ms forwards;}.nNDapcnP_2{stroke-dasharray:345 347;stroke-dashoffset:346;animation:nNDapcnP_draw 342ms linear 616ms forwards;}.nNDapcnP_3{stroke-dasharray:275 277;stroke-dashoffset:276;animation:nNDapcnP_draw 273ms linear 959ms forwards;}.nNDapcnP_4{stroke-dasharray:7 9;stroke-dashoffset:8;animation:nNDapcnP_draw 7ms linear 1232ms forwards;}.nNDapcnP_5{stroke-dasharray:41 43;stroke-dashoffset:42;animation:nNDapcnP_draw 41ms linear 1240ms forwards;}.nNDapcnP_6{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 1282ms forwards;}.nNDapcnP_7{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 1288ms forwards;}.nNDapcnP_8{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 1305ms forwards;}.nNDapcnP_9{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 1311ms forwards;}.nNDapcnP_10{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 1328ms forwards;}.nNDapcnP_11{stroke-dasharray:79 81;stroke-dashoffset:80;animation:nNDapcnP_draw 79ms linear 1333ms forwards;}.nNDapcnP_12{stroke-dasharray:7 9;stroke-dashoffset:8;animation:nNDapcnP_draw 7ms linear 1413ms forwards;}.nNDapcnP_13{stroke-dasharray:28 30;stroke-dashoffset:29;animation:nNDapcnP_draw 28ms linear 1421ms forwards;}.nNDapcnP_14{stroke-dasharray:7 9;stroke-dashoffset:8;animation:nNDapcnP_draw 7ms linear 1449ms forwards;}.nNDapcnP_15{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 1457ms forwards;}.nNDapcnP_16{stroke-dasharray:6 8;stroke-dashoffset:7;animation:nNDapcnP_draw 6ms linear 1463ms forwards;}.nNDapcnP_17{stroke-dasharray:9 11;stroke-dashoffset:10;animation:nNDapcnP_draw 9ms linear 1470ms forwards;}.nNDapcnP_18{stroke-dasharray:40 42;stroke-dashoffset:41;animation:nNDapcnP_draw 40ms linear 1480ms forwards;}.nNDapcnP_19{stroke-dasharray:9 11;stroke-dashoffset:10;animation:nNDapcnP_draw 9ms linear 1521ms forwards;}.nNDapcnP_20{stroke-dasharray:6 8;stroke-dashoffset:7;animation:nNDapcnP_draw 6ms linear 1531ms forwards;}.nNDapcnP_21{stroke-dasharray:37 39;stroke-dashoffset:38;animation:nNDapcnP_draw 37ms linear 1538ms forwards;}.nNDapcnP_22{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 1575ms forwards;}.nNDapcnP_23{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 1580ms forwards;}.nNDapcnP_24{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 1597ms forwards;}.nNDapcnP_25{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 1603ms forwards;}.nNDapcnP_26{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 1620ms forwards;}.nNDapcnP_27{stroke-dasharray:41 43;stroke-dashoffset:42;animation:nNDapcnP_draw 41ms linear 1625ms forwards;}.nNDapcnP_28{stroke-dasharray:7 9;stroke-dashoffset:8;animation:nNDapcnP_draw 7ms linear 1666ms forwards;}.nNDapcnP_29{stroke-dasharray:28 30;stroke-dashoffset:29;animation:nNDapcnP_draw 28ms linear 1674ms forwards;}.nNDapcnP_30{stroke-dasharray:26 28;stroke-dashoffset:27;animation:nNDapcnP_draw 26ms linear 1703ms forwards;}.nNDapcnP_31{stroke-dasharray:26 28;stroke-dashoffset:27;animation:nNDapcnP_draw 26ms linear 1730ms forwards;}.nNDapcnP_32{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 1757ms forwards;}.nNDapcnP_33{stroke-dasharray:26 28;stroke-dashoffset:27;animation:nNDapcnP_draw 26ms linear 1763ms forwards;}.nNDapcnP_34{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 1789ms forwards;}.nNDapcnP_35{stroke-dasharray:1 3;stroke-dashoffset:2;animation:nNDapcnP_draw 1ms linear 1795ms forwards;}.nNDapcnP_36{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 1797ms forwards;}.nNDapcnP_37{stroke-dasharray:20 22;stroke-dashoffset:21;animation:nNDapcnP_draw 20ms linear 1803ms forwards;}.nNDapcnP_38{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 1824ms forwards;}.nNDapcnP_39{stroke-dasharray:46 48;stroke-dashoffset:47;animation:nNDapcnP_draw 46ms linear 1830ms forwards;}.nNDapcnP_40{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 1877ms forwards;}.nNDapcnP_41{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 1880ms forwards;}.nNDapcnP_42{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 1885ms forwards;}.nNDapcnP_43{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 1901ms forwards;}.nNDapcnP_44{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 1907ms forwards;}.nNDapcnP_45{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 1924ms forwards;}.nNDapcnP_46{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 1929ms forwards;}.nNDapcnP_47{stroke-dasharray:49 51;stroke-dashoffset:50;animation:nNDapcnP_draw 49ms linear 1932ms forwards;}.nNDapcnP_48{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 1982ms forwards;}.nNDapcnP_49{stroke-dasharray:1 3;stroke-dashoffset:2;animation:nNDapcnP_draw 1ms linear 1988ms forwards;}.nNDapcnP_50{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 1990ms forwards;}.nNDapcnP_51{stroke-dasharray:49 51;stroke-dashoffset:50;animation:nNDapcnP_draw 49ms linear 1996ms forwards;}.nNDapcnP_52{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2045ms forwards;}.nNDapcnP_53{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 2048ms forwards;}.nNDapcnP_54{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 2053ms forwards;}.nNDapcnP_55{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 2070ms forwards;}.nNDapcnP_56{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 2076ms forwards;}.nNDapcnP_57{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 2093ms forwards;}.nNDapcnP_58{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2098ms forwards;}.nNDapcnP_59{stroke-dasharray:52 54;stroke-dashoffset:53;animation:nNDapcnP_draw 52ms linear 2101ms forwards;}.nNDapcnP_60{stroke-dasharray:1 3;stroke-dashoffset:2;animation:nNDapcnP_draw 1ms linear 2153ms forwards;}.nNDapcnP_61{stroke-dasharray:8 10;stroke-dashoffset:9;animation:nNDapcnP_draw 8ms linear 2155ms forwards;}.nNDapcnP_62{stroke-dasharray:7 9;stroke-dashoffset:8;animation:nNDapcnP_draw 7ms linear 2164ms forwards;}.nNDapcnP_63{stroke-dasharray:6 8;stroke-dashoffset:7;animation:nNDapcnP_draw 6ms linear 2172ms forwards;}.nNDapcnP_64{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2179ms forwards;}.nNDapcnP_65{stroke-dasharray:168 170;stroke-dashoffset:169;animation:nNDapcnP_draw 167ms linear 2182ms forwards;}.nNDapcnP_66{stroke-dasharray:7 9;stroke-dashoffset:8;animation:nNDapcnP_draw 7ms linear 2349ms forwards;}.nNDapcnP_67{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 2357ms forwards;}.nNDapcnP_68{stroke-dasharray:7 9;stroke-dashoffset:8;animation:nNDapcnP_draw 7ms linear 2363ms forwards;}.nNDapcnP_69{stroke-dasharray:168 170;stroke-dashoffset:169;animation:nNDapcnP_draw 167ms linear 2371ms forwards;}.nNDapcnP_70{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2539ms forwards;}.nNDapcnP_71{stroke-dasharray:6 8;stroke-dashoffset:7;animation:nNDapcnP_draw 6ms linear 2542ms forwards;}.nNDapcnP_72{stroke-dasharray:7 9;stroke-dashoffset:8;animation:nNDapcnP_draw 7ms linear 2549ms forwards;}.nNDapcnP_73{stroke-dasharray:8 10;stroke-dashoffset:9;animation:nNDapcnP_draw 8ms linear 2556ms forwards;}.nNDapcnP_74{stroke-dasharray:1 3;stroke-dashoffset:2;animation:nNDapcnP_draw 1ms linear 2565ms forwards;}.nNDapcnP_75{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2567ms forwards;}.nNDapcnP_76{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2570ms forwards;}.nNDapcnP_77{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2573ms forwards;}.nNDapcnP_78{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 2576ms forwards;}.nNDapcnP_79{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 2593ms forwards;}.nNDapcnP_80{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 2599ms forwards;}.nNDapcnP_81{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2616ms forwards;}.nNDapcnP_82{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2619ms forwards;}.nNDapcnP_83{stroke-dasharray:30 32;stroke-dashoffset:31;animation:nNDapcnP_draw 30ms linear 2622ms forwards;}.nNDapcnP_84{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 2653ms forwards;}.nNDapcnP_85{stroke-dasharray:25 27;stroke-dashoffset:26;animation:nNDapcnP_draw 25ms linear 2658ms forwards;}.nNDapcnP_86{stroke-dasharray:24 26;stroke-dashoffset:25;animation:nNDapcnP_draw 24ms linear 2683ms forwards;}.nNDapcnP_87{stroke-dasharray:24 26;stroke-dashoffset:25;animation:nNDapcnP_draw 24ms linear 2708ms forwards;}.nNDapcnP_88{stroke-dasharray:25 27;stroke-dashoffset:26;animation:nNDapcnP_draw 25ms linear 2733ms forwards;}.nNDapcnP_89{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 2759ms forwards;}.nNDapcnP_90{stroke-dasharray:30 32;stroke-dashoffset:31;animation:nNDapcnP_draw 30ms linear 2764ms forwards;}.nNDapcnP_91{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2794ms forwards;}.nNDapcnP_92{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2797ms forwards;}.nNDapcnP_93{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 2800ms forwards;}.nNDapcnP_94{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 2817ms forwards;}.nNDapcnP_95{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 2823ms forwards;}.nNDapcnP_96{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2840ms forwards;}.nNDapcnP_97{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2843ms forwards;}.nNDapcnP_98{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2846ms forwards;}.nNDapcnP_99{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 2849ms forwards;}.nNDapcnP_100{stroke-dasharray:50 52;stroke-dashoffset:51;animation:nNDapcnP_draw 50ms linear 2866ms forwards;}.nNDapcnP_101{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 2916ms forwards;}.nNDapcnP_102{stroke-dasharray:3 5;stroke-dashoffset:4;animation:nNDapcnP_draw 3ms linear 2933ms forwards;}.nNDapcnP_103{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 2937ms forwards;}.nNDapcnP_104{stroke-dasharray:19 21;stroke-dashoffset:20;animation:nNDapcnP_draw 19ms linear 2940ms forwards;}.nNDapcnP_105{stroke-dasharray:8 10;stroke-dashoffset:9;animation:nNDapcnP_draw 8ms linear 2960ms forwards;}.nNDapcnP_106{stroke-dasharray:43 45;stroke-dashoffset:44;animation:nNDapcnP_draw 43ms linear 2969ms forwards;}.nNDapcnP_107{stroke-dasharray:8 10;stroke-dashoffset:9;animation:nNDapcnP_draw 8ms linear 3012ms forwards;}.nNDapcnP_108{stroke-dasharray:19 21;stroke-dashoffset:20;animation:nNDapcnP_draw 19ms linear 3021ms forwards;}.nNDapcnP_109{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 3041ms forwards;}.nNDapcnP_110{stroke-dasharray:3 5;stroke-dashoffset:4;animation:nNDapcnP_draw 3ms linear 3044ms forwards;}.nNDapcnP_111{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 3048ms forwards;}.nNDapcnP_112{stroke-dasharray:50 52;stroke-dashoffset:51;animation:nNDapcnP_draw 50ms linear 3065ms forwards;}.nNDapcnP_113{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 3115ms forwards;}.nNDapcnP_114{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 3132ms forwards;}.nNDapcnP_115{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 3138ms forwards;}.nNDapcnP_116{stroke-dasharray:82 84;stroke-dashoffset:83;animation:nNDapcnP_draw 82ms linear 3141ms forwards;}.nNDapcnP_117{stroke-dasharray:1 3;stroke-dashoffset:2;animation:nNDapcnP_draw 1ms linear 3223ms forwards;}.nNDapcnP_118{stroke-dasharray:9 11;stroke-dashoffset:10;animation:nNDapcnP_draw 9ms linear 3225ms forwards;}.nNDapcnP_119{stroke-dasharray:3 5;stroke-dashoffset:4;animation:nNDapcnP_draw 3ms linear 3235ms forwards;}.nNDapcnP_120{stroke-dasharray:48 50;stroke-dashoffset:49;animation:nNDapcnP_draw 48ms linear 3239ms forwards;}.nNDapcnP_121{stroke-dasharray:15 17;stroke-dashoffset:16;animation:nNDapcnP_draw 15ms linear 3288ms forwards;}.nNDapcnP_122{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 3304ms forwards;}.nNDapcnP_123{stroke-dasharray:34 36;stroke-dashoffset:35;animation:nNDapcnP_draw 34ms linear 3309ms forwards;}.nNDapcnP_124{stroke-dasharray:8 10;stroke-dashoffset:9;animation:nNDapcnP_draw 8ms linear 3343ms forwards;}.nNDapcnP_125{stroke-dasharray:21 23;stroke-dashoffset:22;animation:nNDapcnP_draw 21ms linear 3352ms forwards;}.nNDapcnP_126{stroke-dasharray:8 10;stroke-dashoffset:9;animation:nNDapcnP_draw 8ms linear 3374ms forwards;}.nNDapcnP_127{stroke-dasharray:24 26;stroke-dashoffset:25;animation:nNDapcnP_draw 24ms linear 3383ms forwards;}.nNDapcnP_128{stroke-dasharray:8 10;stroke-dashoffset:9;animation:nNDapcnP_draw 8ms linear 3408ms forwards;}.nNDapcnP_129{stroke-dasharray:8 10;stroke-dashoffset:9;animation:nNDapcnP_draw 8ms linear 3417ms forwards;}.nNDapcnP_130{stroke-dasharray:12 14;stroke-dashoffset:13;animation:nNDapcnP_draw 12ms linear 3426ms forwards;}.nNDapcnP_131{stroke-dasharray:103 105;stroke-dashoffset:104;animation:nNDapcnP_draw 103ms linear 3439ms forwards;}.nNDapcnP_132{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 3542ms forwards;}.nNDapcnP_133{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 3545ms forwards;}.nNDapcnP_134{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 3550ms forwards;}.nNDapcnP_135{stroke-dasharray:39 41;stroke-dashoffset:40;animation:nNDapcnP_draw 39ms linear 3566ms forwards;}.nNDapcnP_136{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 3606ms forwards;}.nNDapcnP_137{stroke-dasharray:74 76;stroke-dashoffset:75;animation:nNDapcnP_draw 74ms linear 3623ms forwards;}.nNDapcnP_138{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 3697ms forwards;}.nNDapcnP_139{stroke-dasharray:39 41;stroke-dashoffset:40;animation:nNDapcnP_draw 39ms linear 3714ms forwards;}.nNDapcnP_140{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 3754ms forwards;}.nNDapcnP_141{stroke-dasharray:74 76;stroke-dashoffset:75;animation:nNDapcnP_draw 74ms linear 3771ms forwards;}.nNDapcnP_142{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 3845ms forwards;}.nNDapcnP_143{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 3862ms forwards;}.nNDapcnP_144{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 3868ms forwards;}.nNDapcnP_145{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 3885ms forwards;}.nNDapcnP_146{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 3890ms forwards;}.nNDapcnP_147{stroke-dasharray:11 13;stroke-dashoffset:12;animation:nNDapcnP_draw 11ms linear 3893ms forwards;}.nNDapcnP_148{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 3905ms forwards;}.nNDapcnP_149{stroke-dasharray:27 29;stroke-dashoffset:28;animation:nNDapcnP_draw 27ms linear 3908ms forwards;}.nNDapcnP_150{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 3936ms forwards;}.nNDapcnP_151{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 3942ms forwards;}.nNDapcnP_152{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 3948ms forwards;}.nNDapcnP_153{stroke-dasharray:27 29;stroke-dashoffset:28;animation:nNDapcnP_draw 27ms linear 3954ms forwards;}.nNDapcnP_154{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 3982ms forwards;}.nNDapcnP_155{stroke-dasharray:3 5;stroke-dashoffset:4;animation:nNDapcnP_draw 3ms linear 3985ms forwards;}.nNDapcnP_156{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 3989ms forwards;}.nNDapcnP_157{stroke-dasharray:20 22;stroke-dashoffset:21;animation:nNDapcnP_draw 20ms linear 3995ms forwards;}.nNDapcnP_158{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4015ms forwards;}.nNDapcnP_159{stroke-dasharray:3 5;stroke-dashoffset:4;animation:nNDapcnP_draw 3ms linear 4021ms forwards;}.nNDapcnP_160{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 4025ms forwards;}.nNDapcnP_161{stroke-dasharray:27 29;stroke-dashoffset:28;animation:nNDapcnP_draw 27ms linear 4028ms forwards;}.nNDapcnP_162{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4056ms forwards;}.nNDapcnP_163{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4062ms forwards;}.nNDapcnP_164{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4068ms forwards;}.nNDapcnP_165{stroke-dasharray:27 29;stroke-dashoffset:28;animation:nNDapcnP_draw 27ms linear 4074ms forwards;}.nNDapcnP_166{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 4102ms forwards;}.nNDapcnP_167{stroke-dasharray:11 13;stroke-dashoffset:12;animation:nNDapcnP_draw 11ms linear 4105ms forwards;}.nNDapcnP_168{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 4116ms forwards;}.nNDapcnP_169{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4119ms forwards;}.nNDapcnP_170{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 4125ms forwards;}.nNDapcnP_171{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4142ms forwards;}.nNDapcnP_172{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 4148ms forwards;}.nNDapcnP_173{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4165ms forwards;}.nNDapcnP_174{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 4171ms forwards;}.nNDapcnP_175{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 4174ms forwards;}.nNDapcnP_176{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4191ms forwards;}.nNDapcnP_177{stroke-dasharray:20 22;stroke-dashoffset:21;animation:nNDapcnP_draw 20ms linear 4197ms forwards;}.nNDapcnP_178{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4218ms forwards;}.nNDapcnP_179{stroke-dasharray:16 18;stroke-dashoffset:17;animation:nNDapcnP_draw 16ms linear 4223ms forwards;}.nNDapcnP_180{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nNDapcnP_draw 2ms linear 4240ms forwards;}.nNDapcnP_181{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4243ms forwards;}.nNDapcnP_182{stroke-dasharray:11 13;stroke-dashoffset:12;animation:nNDapcnP_draw 11ms linear 4249ms forwards;}.nNDapcnP_183{stroke-dasharray:7 9;stroke-dashoffset:8;animation:nNDapcnP_draw 7ms linear 4261ms forwards;}.nNDapcnP_184{stroke-dasharray:10 12;stroke-dashoffset:11;animation:nNDapcnP_draw 10ms linear 4269ms forwards;}.nNDapcnP_185{stroke-dasharray:94 96;stroke-dashoffset:95;animation:nNDapcnP_draw 94ms linear 4280ms forwards;}.nNDapcnP_186{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4374ms forwards;}.nNDapcnP_187{stroke-dasharray:13 15;stroke-dashoffset:14;animation:nNDapcnP_draw 13ms linear 4380ms forwards;}.nNDapcnP_188{stroke-dasharray:6 8;stroke-dashoffset:7;animation:nNDapcnP_draw 6ms linear 4394ms forwards;}.nNDapcnP_189{stroke-dasharray:14 16;stroke-dashoffset:15;animation:nNDapcnP_draw 14ms linear 4401ms forwards;}.nNDapcnP_190{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 4416ms forwards;}.nNDapcnP_191{stroke-dasharray:38 40;stroke-dashoffset:39;animation:nNDapcnP_draw 38ms linear 4421ms forwards;}.nNDapcnP_192{stroke-dasharray:11 13;stroke-dashoffset:12;animation:nNDapcnP_draw 11ms linear 4459ms forwards;}.nNDapcnP_193{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4471ms forwards;}.nNDapcnP_194{stroke-dasharray:11 13;stroke-dashoffset:12;animation:nNDapcnP_draw 11ms linear 4477ms forwards;}.nNDapcnP_195{stroke-dasharray:33 35;stroke-dashoffset:34;animation:nNDapcnP_draw 33ms linear 4489ms forwards;}.nNDapcnP_196{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4523ms forwards;}.nNDapcnP_197{stroke-dasharray:33 35;stroke-dashoffset:34;animation:nNDapcnP_draw 33ms linear 4529ms forwards;}.nNDapcnP_198{stroke-dasharray:11 13;stroke-dashoffset:12;animation:nNDapcnP_draw 11ms linear 4562ms forwards;}.nNDapcnP_199{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4574ms forwards;}.nNDapcnP_200{stroke-dasharray:11 13;stroke-dashoffset:12;animation:nNDapcnP_draw 11ms linear 4580ms forwards;}.nNDapcnP_201{stroke-dasharray:38 40;stroke-dashoffset:39;animation:nNDapcnP_draw 38ms linear 4592ms forwards;}.nNDapcnP_202{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 4631ms forwards;}.nNDapcnP_203{stroke-dasharray:14 16;stroke-dashoffset:15;animation:nNDapcnP_draw 14ms linear 4636ms forwards;}.nNDapcnP_204{stroke-dasharray:6 8;stroke-dashoffset:7;animation:nNDapcnP_draw 6ms linear 4651ms forwards;}.nNDapcnP_205{stroke-dasharray:13 15;stroke-dashoffset:14;animation:nNDapcnP_draw 13ms linear 4658ms forwards;}.nNDapcnP_206{stroke-dasharray:5 7;stroke-dashoffset:6;animation:nNDapcnP_draw 5ms linear 4671ms forwards;}.nNDapcnP_207{stroke-dasharray:94 96;stroke-dashoffset:95;animation:nNDapcnP_draw 94ms linear 4677ms forwards;}.nNDapcnP_208{stroke-dasharray:10 12;stroke-dashoffset:11;animation:nNDapcnP_draw 10ms linear 4772ms forwards;}.nNDapcnP_209{stroke-dasharray:7 9;stroke-dashoffset:8;animation:nNDapcnP_draw 7ms linear 4782ms forwards;}.nNDapcnP_210{stroke-dasharray:11 13;stroke-dashoffset:12;animation:nNDapcnP_draw 11ms linear 4790ms forwards;}.nNDapcnP_211{stroke-dasharray:96 98;stroke-dashoffset:97;animation:nNDapcnP_draw 96ms linear 4802ms forwards;}.nNDapcnP_212{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nNDapcnP_draw 4ms linear 4898ms forwards;}.nNDapcnP_213{stroke-dasharray:96 98;stroke-dashoffset:97;animation:nNDapcnP_draw 96ms linear 4903ms forwards;}@keyframes nNDapcnP_draw{100%{stroke-dashoffset:0;}}@keyframes nNDapcnP_fade{0%{stroke-opacity:1;}95.65217391304348%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>     
+        

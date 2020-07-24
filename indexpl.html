@@ -14,7 +14,7 @@
       <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
           <div class="navbar-brand">
               <a class="navbar-item" href="indexpl.html">
-                <img src="logo.svg">
+                <img src="logon.svg">
               </a>
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
               <span aria-hidden="true"></span>
@@ -23,20 +23,20 @@
             </a>
           </div>
         
-          <div id="navbarBasicExample" class="navbar-menu marg">
+          <div id="navbarBasicExample" class="navbar-menu">
 
             <div class="navbar-end">
 
-              <a class="navbar-item is-size-5 margin" href="projectspl.html">
+              <a class="navbar-item is-size-6 margin" href="projectspl.html">
                 Projekty
               </a>
-              <a class="navbar-item is-size-5 margin" href="contactpl.html">
+              <a class="navbar-item is-size-6 margin" href="contactpl.html">
                 Kontakt
               </a>
 
               <div class="navbar-item">
                   <div class="navbar-item has-dropdown is-hoverable">
-                      <a class="navbar-link is-size-5 ">
+                      <a class="navbar-link is-size-6">
                         Language
                       </a>
               
@@ -54,28 +54,146 @@
             </div>
           </div>
         </nav>
-      <section class="hero is-fullheight-with-navbar">
-          <div class="hero-body">
-              <div class="container">
-        <div class="columns">
-          <div class="column is-5">
-            <canvas id="renderCanvas" touch-action="none"></canvas> <!-- touch-action="none" for best results from PEP -->
-          </div>
-          <div class="column has-text-justified hero-body">
+
+              <div class="container"> 
+        <div class="columns margi">
+          <div class="column is-5  has-text-justified hero-body">
             <p class="is-size-5">
-                Jestem inżynierem mechanikiem pochodzącym z Poznania. Uwielbiam mechanikę i projektowanie od czasu 
-                kiedy skończyłem "podstawówkę". Zdecydowałem, że zostanę inżynierem i ukończyłem studia Mechanika i Budowa Maszyn 
-                na Politechnice Poznańskiej. Obecnie mieszkam w Poznaniu.
-                Mam dwa lata doświadczenia jako Kierownik Sekcji Technologicznej w 
-             <a class="has-text-danger" href="http://www.fns.com.pl/en/home-en/">
-                Fabryce Narzędzi Specjalnych</a>. W Irlandii pracowałem w 
-             <a class="has-text-danger" href="http://www.accutool.ie/">Accutool</a> jako Inżynier Projektu. 
-           </p>
+              Proto-typ zajmuję się kompleksową realizacją projektów z branży budowy maszyn, urządzeń oraz konstrukcji. Poniżej znajdziesz szczegółowe informację o zakresie wykonywanych usług. W zakładce projekty znajdziesz realizacje wykonanych zadań. 
+              </br>
+            </br>
+              Zachęcam do kontaktku. Gwarantuję wykonanie powierzonych usług na najwyższym poziomie. Jesteśmy otwarci na propozycję wykonania pojedynczych zleceń oraz nawiązania stałej współpracy przy wieloetapowym projekcie. 
+             </p>
+            
           </div>
+          <div class="column border minmax">
+            <canvas class="outline" id="renderCanvas" touch-action="none"></canvas>
+            <div class="has-text-centered mar">
+              <p>
+                Użyj myszki aby poruszyć, zbliżyć lub oddalić model 3D
+              </p>
+            </div>
           </div>
         </div>
-        
+      </br>
+  </br>
+</br>
+</br>
+  <div class="columns">
+    <div class="column is-6  has-text-justified paddy">
+      <p class="is-size-5">
+        Projektowanie części i maszyn
+      </p>
+    </br>
+        <p class="is-size-6">Zajmujem się projektowaniem części i maszyn dla różnych gałęzi przemysłu. Korzystamy z nowoczesnego oprogramowania pozwalającego na tworzenie dokumentacji konstrukcyjnej. Najczęściej wykonujemy projekty dotyczące: </p>
+  </br>
+        <dl class="is-size-6">
+          <li>Tworzenia dokumentacji do istniejących części.</li>
+          <li>Wykonywania modeli 3D na podstawie dostarczonej dokumentacji 2D.</li>
+          <li>Odwzorowywania zużytych części, tworzenia dokumentacji koniecznej do ponownego wykonania lub naprawy.</li>
+          <li>Projektowania przyrządów i pomocy warsztatowych.</li>
+          <li>Modyfikacji i dostosowywania starszych maszyn do wymogów jakościowych.</li>
+          <li>Projektowana i wykonywania płyt cieni przeznaczonych do magazynowania narzędzi i przyrządów.</li>
+        </dl> 
+      </br>
+        <div class="line"></div>
+    </br>
+        <figure class="image">
+          <img src="./photo/1.png">
+        </figure>
+      </br>
+    </div>
+
+  <div class="column has-text-justyfied paddy">
+    <figure class="image">
+      <img src="./photo/33.png">
+    </figure>
+  </br>
+    <div class="line"></div>
+  </br>
+    <p class="is-size-5">
+      Wsparcie technologiczne
+    </p>
+  </br>
+      <p class="is-size-6">
+        Oferujemy szeroko rozumiane wsparcie techniczne. Realizujemy zlecenia dotyczące wsparcia technologicznego oraz tworzenia dokumentacji technologicznej. Wykonujemy technologie wykonania części, technologie montażu, instrukcje użytkowania, schemty, katalogi oraz pozostałe dokumenty techniczne.
+      </p>
+    </div>
+  </div>
+  <div class="columns">
+    <div class="column is-6  has-text-justified paddy">
+      <p class="is-size-5">
+        Wizualizacje
+      </p>
+    </br>
+        <p class="is-size-6">Wykonujemy fotorealistyczne wizualizacje produktów przeznaczone do stron internetowych, prezentacji oraz materiałów promocyjnych. Tworzymy realistyczne modele oraz animacje na podstawe dokumentacji konstrukcyjnej. Wykonuję interaktywne modele 3D przeznaczone do publikacjin na stronach internetowych.</p>
+      </br>
+        <div class="line"></div>
+    </br>
+    <div id="but" style="display: flex;">
+    <button onclick="picture()" id="abs" class="button is-danger is-outlined">Zrób rysunek!</button>
+    </div>
+        <figure class="image">
+          <img id="bigpic" src="bigpic" style="display:none;" />
+        </figure>
+
+    </br>
+  </div>
+
+  <div class="column has-text-justyfied paddy">
+    <figure class="image">
+      <img src="./photo/bot2.jpg">
+    </figure>
+  </br>
+    <div class="line"></div>
+  </br>
+    <p class="is-size-5">
+      Zlecanie produkcji
+    </p>
+  </br>
+      <p class="is-size-6">
+        Wykorzystując doświadczenie oraz znajomość firm produkcyjnych oferujemy kompleksowe wsparcie przy zlecaniu produkcji. Zajmujemy się składaniem zamówień, szukaniem kontrahentów oraz przygotowywaniem ofert. Nadzorujemy procesy produkcji na każdym etapie od momentu sporządenia oferty do otrzymania gotowego wyrobu.
+      </p>
+    </div>
+  </div>
+</div>
+</br>
+</br>
+    <!--
+          <div class="tile is-ancestor">
+            <div class="tile is-6 is-vertical is-parent">
+              <div class="tile is-child box">
+                <p class="title">Projektowanie części i maszyn</p>
+                <p>Zajmuję się projektowaniem części i maszyn dla różnych gałęzi przemysłu. W pracy używam nowoczesnego oprogramowania pozwalającego na tworzenie dokumentacji konstrukcyjnej. Najczęściej wykonuję projekty dotyczące: </p>
+                <dl>
+                  <li>Tworzenia dokumentacji do istniejących części.</li>
+                  <li>Wykonywaniem modeli 3D na podstawie dostarczonej dokumentacji 2D.</li>
+                  <li>Odwzorowywaniem zużytych części, tworzeniem dokumentacji koniecznej do ponownego wykonania lub naprawy.</li>
+                  <li>Projektowaniem przyrządów i pomocy warsztatowych.</li>
+                  <li>Modyfikacją i dostosowywaniem starszych maszyn do wymogów jakościowych.</li>
+                  <li>Projektowaniem płyt cieni przeznaczonych do magazynowania narzędzi i przyrządów.</li>
+                </dl>
+              </div>
+              <div class="tile is-child box">
+                <p class="title">Zlecanie produkcji</p>
+                <p>Wykorzystując kilkuletnie doświadczenie oraz znajomość firm produkcyjnych oferuję kompleksowe wsparcie przy zlecaniu produkcji. Zajmuję się składaniem zamówień, szukaniem kontrahentów oraz przygotowywaniem ofert. Oferuję nadzorowanie procesu produkcji na każdym etapie od momentu sporządenia oferty do otrzymania gotowego wyrobu.</p>
+              </div>
+              <div class="tile is-child box">
+                <p class="title">Wizualizacje</p>
+                <p>Wykonuję fotorealistyczne wizualizacje produktów przeznaczone do stron internetowych, prezentacji oraz materiałów promocyjnych. Tworzę rendery zdjęc oraz filmów na podstawe dokumentacji konstrukcyjnej. Wykonuję interaktywne modele 3D przeznaczone do publikacjin na stronach internetowych.
+                </p>
+              </div>
+            </div>
+            <div class="tile is-parent">
+              <div class="tile is-child box">
+                <p class="title">Wsparcie technologiczne</p>
+                <p>Oferuję wsparcie technologiczne w zakresie technologicznym. Realizuję zlecenia dotyczące wsparcia technologicznego oraz tworzenia dokumentacji technologicznej. Wykonuję technologię wykonania części, technologie montażu instrukcje użytkowania, schemty, katalogi oraz pozostałe dokumenty techniczne. Pomagam wdrażać systemy zarządzania produkcją i sterowania gospodarką materiałową.</p>
+              </div>
+            </div>
+          </div>
         </div>
+      -->
+
         <footer class="footer">
             <div class="content has-text-centered">
               <p>
@@ -83,8 +201,17 @@
               </p>
             </div>
           </footer>
-      </section>
-        
+
+          <script type="text/javascript">
+
+            function picture(){ 
+            var pic = "./shadowboard.svg"
+            document.getElementById('but').style.display='none';
+            document.getElementById('bigpic').src = pic.replace('auto');
+            document.getElementById('bigpic').style.display='block';
+            }
+        </script>
+
     <script type="text/javascript">
       document.addEventListener('DOMContentLoaded', () => {
 const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
@@ -106,37 +233,52 @@ if ($navbarBurgers.length > 0) {
 });
     </script>
 
+
     <script>
       var canvas = document.getElementById("renderCanvas"); // Get the canvas element
       var engine = new BABYLON.Engine(canvas, true); // Generate the BABYLON 3D engine
 
-      var delayCreateScene = function () {
+// You have to create a function called createScene. This function must return a BABYLON.Scene object
+// You can reference the following variables: scene, canvas
+// You must at least define a camera
+var delayCreateScene = function () {
     var scene = new BABYLON.Scene(engine);
-scene.clearColor = new BABYLON.Color3(0.5, 0.8, 0.5);
+scene.clearColor = new BABYLON.Color3(0.957, 0.957, 0.957);
 
     
 // Parameters: alpha, beta, radius, target position, scene
     var camera = new BABYLON.ArcRotateCamera("Camera", 0, 0, 0, new BABYLON.Vector3(0, 0, 0), scene);
-
     var light = new BABYLON.HemisphericLight("HemiLight", new BABYLON.Vector3(4, 4, 1), scene);
+        scene.activeCamera.fov = 0.55;
 // Positions the camera overwriting alpha, beta, radius
     camera.setPosition(new BABYLON.Vector3(-214, 76, -150));
+
 // This attaches the camera to the canvas
     camera.attachControl(canvas, true);
 
+// Material
+var metal = new BABYLON.StandardMaterial;
+metal.name = "metal";
+metal.diffuseColor = new BABYLON.Color3(0.19, 0.16, 0.16);
+
     // The first parameter can be used to specify which mesh to import. Here we import all meshes
- BABYLON.SceneLoader.ImportMesh("","https://raw.githubusercontent.com/BorysPalacz/3dTest/master/", "icp.glb", scene, function (newMeshes) {
-        scene.createDefaultCameraOrLight(true);
+var part = BABYLON.SceneLoader.ImportMesh("","https://raw.githubusercontent.com/BorysPalacz/prototypStrona/master/", "icp.glb", scene, function (newMeshes) {
         var dude = newMeshes[0].getChildMeshes()[0]; 
-         dude.position = new BABYLON.Vector3(-46, -35, -65);
-         dude.rotate(BABYLON.Axis.Z, -Math.PI/2, BABYLON.Space.WORLD);
-        var metal = scene.getMaterialByID("stal");
-        metal.microSurface = 0.96;
-        metal.reflectivityColor = new BABYLON.Color3(0.36, 0.36, 0.36);
-        metal.albedoColor = new BABYLON.Color3(0.01, 0.01, 0.01);
+        dude.rotate(BABYLON.Axis.Z, -Math.PI/2, BABYLON.Space.WORLD);
+        dude.setPivotMatrix(BABYLON.Matrix.Translation(-35, -46, 65), false);
+        dude.material = metal;
+
+var ax = new BABYLON.Vector3 (1,0,0);
+
+scene.registerBeforeRender(function() {
+dude.rotate(ax, Math.PI / 200, BABYLON.Space.LOCAL);
+
+   });
    })   
+
     return scene;
 }
+    
       /******* End of the create scene function ******/
 
       var scene = delayCreateScene(); //Call the createScene function
@@ -151,5 +293,7 @@ scene.clearColor = new BABYLON.Color3(0.5, 0.8, 0.5);
               engine.resize();
       });
   </script>
+  <script src="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/js/bulma-carousel.min.js"></script>
+
   </body>
 </html>

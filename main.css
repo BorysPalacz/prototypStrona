@@ -1,5 +1,5 @@
 body{
-    background-color: #f4f4f4;
+	background-color: #f4f4f4;
 }
 .art{
     margin-bottom: 4em;
@@ -23,8 +23,78 @@ body{
 	margin-left: 0.75rem;
 	margin-right: 0.75rem;
 }
+
+.max600{
+	width: 600px;
+	height: 600px;
+
+}
+.border{
+	border:#4a4a4a;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+}
+
 #renderCanvas {
 	width: 100%;
 	height: 100%;
 	touch-action: none;
 }
+
+.outline{
+	outline: 0;
+}
+
+.szeroko {
+	line-height: 2rem;
+}
+
+.margi{
+	margin-top: 1rem;
+	margin bottom: 1rem;
+}
+
+.minmax{
+	height: 400px;
+}
+
+.mar{
+	margin-top: 1rem;
+	margin bottom: 1rem;
+}
+
+dl{
+	display: block;
+	margin-left: 1rem;
+}
+.line{
+	height: 150px;
+	width: 50%;
+	border-right:#4a4a4a solid 1px;
+}
+
+.paddy {
+	padding-left: 3rem;
+	padding-right: 3rem;
+}
+footer{
+	background-color: crimson;
+}
+button{
+	margin: 0 auto;
+}
+#bigpic {
+	height: 350px;
+}
+#but{
+	height: 350px;
+	justify-content: center;
+}
+#abs{
+	margin-top: 169px;
+	outline: none;
+}
+button::-moz-focus-inner {
+	border: 0;
+  }
