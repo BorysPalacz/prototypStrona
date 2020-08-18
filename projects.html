@@ -3,23 +3,17 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Borys Palacz - Mechanical Engineer Projects</title>
+    <title>Borys Palacz - Mechanical Engineer Strona główna</title>
     <link rel="stylesheet" href="bulma.css">
-    <link rel="stylesheet" href="main.css">
- <!-- Global site tag (gtag.js) - Google Analytics -->
-<script type="text/javascript" async src="https://www.googletagmanager.com/gtag/js?id=UA-130936216-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-130936216-1');
-</script>
+    <link rel="stylesheet" href="main.css"> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css">
+    <script src="https://preview.babylonjs.com/loaders/babylonjs.loaders.min.js"></script>
   </head>
   <body>
       <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
           <div class="navbar-brand">
               <a class="navbar-item" href="index.html">
-                <img src="photo/logobul.svg">
+                <img src="logon.svg">
               </a>
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
               <span aria-hidden="true"></span>
@@ -29,28 +23,28 @@
           </div>
         
           <div id="navbarBasicExample" class="navbar-menu">
-            <div class="navbar-start">
-              <a class="navbar-item is-size-5 is-active">
-                Projects
-              </a>
-        
-              <a class="navbar-item is-size-5" href="contact.html">
-                Contact
-              </a>
-            </div>
-        
+
             <div class="navbar-end">
+
+              <a class="navbar-item is-size-6 margin" href="projects.html">
+                Projekty
+              </a>
+              <a class="navbar-item is-size-6 margin" href="contact.html">
+                Kontakt
+              </a>
+
               <div class="navbar-item">
                   <div class="navbar-item has-dropdown is-hoverable">
-                      <a class="navbar-link is-size-5 ">
+                      <a class="navbar-link is-size-6">
                         Language
                       </a>
               
-                      <div class="navbar-dropdown is-boxed">
-                        <a class="navbar-item is-active">
+              
+                      <div class="navbar-dropdown is-boxed is-active">
+                        <a class="navbar-item" href="projectsen.html">
                           English
                         </a>
-                        <a class="navbar-item" href="projectspl.html">
+                        <a class="navbar-item is-active">
                           Polski
                         </a>
                       </div>
@@ -59,28 +53,155 @@
             </div>
           </div>
         </nav>
-      <section class="hero is-fullheight-with-navbar">
-          <div class="hero-body has-text-centered">
-              <div class="container">
-                    <p class="is-size-3">
-                      I decided to split projects by country. I hope you will enjoy my posts.
-                     <br/> 
-                    <a class="has-text-danger is-size-1" href="ireland.html"> Ireland</a>
-                    <br/>
-                     <a class="has-text-danger is-size-1" href="poland.html"> Poland</a> 
-                    </p>
-                </div>
-            </div>
+      </br>
+  <div class="container is-size-6 has-text-centered">
+    <div class="art"> <!-- MAIN TEXT -->
+        <p class="is-size-4 has-text-danger">Platforma z regulowaną wysokością</p>
+            <p>
+                    Platforma została wykonana dla klienta związanego z przemysłem chemicznym. Wykonałem modele 3D oraz dokumentację 2D zgodnie z wymaganiami klienta. Po akceptacji wykonaliśmy poprawne urządzenie. Dokumentacja została wykonana w środowisku Solid Works.
+            </p>  
+          </br>
+            <div id="image-slider" class="splide">
+              <div class="splide__track">
+                <ul class="splide__list">
+                  <li class="splide__slide"><img src="photo/vin1.jpg"></li>
+                  <li class="splide__slide"><img src="photo/vin2.jpg"></li>
+                  <li class="splide__slide"><img src="photo/vin3.jpg"></li>
+                </ul>
+              </div>
+            </div>            
+        </div>
         
+        <div class="art"> <!-- MAIN TEXT -->
+        <p class="is-size-4 has-text-danger">Płyta cieni dla szafki narzędziowej</p>
+            <p>
+                    Nasz klient potrzebował płyty cieni dla szafki narzędziowej. Użyliśmy szarego PVC do tego projektu. Wykonałem prototyp płyty z przykładowym ułożeniem narzędzi. Po akceptacji klienta wykonałem model 3D, zamówiłem materiał i wykonałem kartę technologiczną.
+            </p>
+          </br>
+          <div id="image-slider2" class="splide">
+            <div class="splide__track">
+              <ul class="splide__list">
+                <li class="splide__slide"><img src="photo/sha3.jpg"></li>
+                <li class="splide__slide"><img src="photo/sha2.jpg"></li>
+                <li class="splide__slide"><img src="photo/sha4.jpg"></li>
+                <li class="splide__slide"><img src="photo/sha5.jpg"></li>
+              </ul>
+            </div>
+          </div>   
+        </div>
+        
+        <div class="art"> <!-- MAIN TEXT -->
+        <p class="is-size-3 has-text-danger">Prototyp koszyka na próbki</p>
+            <p>
+                    Ten koszyk został wykonany dla laboratorium chemicznego w firmie związanej z przemysłem farmaceutycznym. Od klienta dostałem tylko szkic. Wykonałem dokumentację 3D oraz 2D. Spawacz wykonał koszyk zgodnie z dokumentacją.
+            </p>  
+            <img src="photo/bas1.jpg"><br/>
+            <img src="photo/bas2.jpg"><br/>
+            <img src="photo/bas3.jpg">
+            
+        </div>
+        
+        <div class="art"> <!-- MAIN TEXT -->
+        <p class="is-size-3 has-text-danger">Uchwyt sprężysty do kamery</p>
+            <p>
+                    Rysunek złożeniowy uchwytu jest pokazany poniżej. Część została wykonana na frezarce numerycznej.
+            </p>  
+            <img src="photo/spr1.jpg"><br/>
+            <img src="photo/spr2.jpg"><br/>
+            <img src="photo/spr3.jpg"><br/>
+            <img src="photo/spr4.jpg">
+            
+        </div>
+        
+        
+        <div class="art"> <!-- MAIN TEXT -->
+        <p class="is-size-3 has-text-danger">Wózek ślizgowy</p>
+            <p>
+                    Wykonałem projekt tego wózka który przeznaczony jest do większej maszyny. Do tej jednostki wykorzystałem prowadnice liniowe firmy Rexroth. Po akceptacji klienta wykonałem dokumentację 2D. Załoga wykonała i złożyła urządzenie zgodnie z wykonaną dokumentacją.
+            </p>  
+            <img src="photo/sli2.jpg"><br/>
+            <img src="photo/sli3.jpg">
+            
+        </div>
+        
+        <div class="art"> <!-- MAIN TEXT -->
+        <p class="is-size-3 has-text-danger">Klips do pudełka</p>
+            <p>
+                    Klient wysłał prototypy klipsa wykonane na drukarce 3D (różowe części). Po kilku modyfikacjach wykonałem końcowy projekt oraz dokumentację 2D i 3D. Klient zamówił 1000 klipsów które wykonaliśmy na frezarce 3D. Do wykonania części został wykorzystany niebieski Delrin.
+            </p>  
+            <img src="photo/fai1.jpg"><br/>
+            <img src="photo/fai2.jpg"><br/>
+            <img src="photo/fai3.jpg"><br/>
+            <img src="photo/fai4.jpg">
+            
+        </div>
+        
+        <div> <!-- MAIN TEXT -->
+        <p class="is-size-3 has-text-danger">Płyta cieni dla narzędzi</p>
+            <p>
+                    Klient wysłał kilka typowych narzędzi. Wykonałem model płyty cieni oraz plik .dxf dla środowiska Mastercam. Na koniec płyta została wykonana z szarego PVC. 
+            </p>  
+            <img src="photo/hat1.jpg"><br/>
+            <img src="photo/hat2.jpg"><br/>
+            <img src="photo/hat3.jpg">
+            
+        </div>
+        
+        <div class="art"> <!-- MAIN TEXT -->
+        <p class="is-size-3 has-text-danger">Regulowany uchwyt na stopy</p>
+            <p>
+                    Te uchwyty służą pracownikom w laboratorium chemicznym (cleanroom). Wszystkie elementy zostały wykonane z termoplastów o wysokiej odporności chemicznej oraz stali nierdzewnej. Wykonałem model 3D, zamówiłem materiały i wykonałem proces technologiczny dla 20 urządzeń.
+            </p>  
+            <img src="photo/fot1.jpg"><br/>
+            <img src="photo/fot2.jpg"><br/>
+            <img src="photo/fot3.jpg">
+            
+        </div>
+        
+        <div class="art"> <!-- MAIN TEXT -->
+        <p class="is-size-3 has-text-danger">Uchwyt na kasety</p>
+            <p>
+                    Ten uchwyty jest przeznaczony na nowe detale na lini produkcyjnej. Jest kombinacją poliacetalu i stali nierdzewnej. Zgodnie z uwagami klienta wykonałem projekt oraz modele 3D. Po akceptacji zamówiłem materiał i wykonałem proces technologiczny.
+            </p>  
+            <img src="photo/bot1.jpg"><br/>
+            <img src="photo/bot2.jpg">
+            
+        </div>
+        
+        <div class="art"> <!-- MAIN TEXT -->
+        <p class="is-size-3 has-text-danger">Urządzenie z czujnikiem zegarowym</p>
+            <p>
+                    Urządzenie używane jest do mierzenia części w dziale jakości. To urządzenie wykonane zostało z różnych materiałów. Oś X została wykonana z prowadnicy firmy Bosch natomiast oś Z z prowadnicy firmy IGUS. Elektroniczny czujnik zegarowy firmy Mitutoyo zapewnia precyzję pomiaru. Wykonałem projekt tego urządzenia. Po akceptacji klienta wykonałem kompletną dokumentację. Klient był bardzo zadowolony z wykonanego prototypu.
+            </p>  
+            <img src="photo/Clo1.jpg"><br/>
+            <div class="videoWrapper">
+            <iframe src="https://www.youtube.com/embed/cFdDXrQYaKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+            <br/>
+            <img src="photo/Clo2.jpg"><br/>
+            <img src="photo/Clo3.jpg">
+            
+        </div>
+        
+        <div class="art"> <!-- MAIN TEXT -->
+        <p class="is-size-3 has-text-danger">Podajnik na podstawie wzoru</p>
+            <p>
+                    Część ta została wykonana ze stali nierdzewnej. Wykonałem projekt tego podajnika na podstawie zużytej, starej części.
+            </p>  
+            <img src="photo/sam1.jpg"><br/>
+            <img src="photo/sam2.jpg">
+            
+        </div>
+    </div>
         <footer class="footer">
             <div class="content has-text-centered">
               <p>
-                Page has been created by Borys Palacz. Have a wonderful day!
+                Strona wykonana przez proto-typ. Więcej info w zakładce kontakt.
               </p>
             </div>
           </footer>
-      </section>
-        
+
+
     <script type="text/javascript">
       document.addEventListener('DOMContentLoaded', () => {
 const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
@@ -101,5 +222,23 @@ if ($navbarBurgers.length > 0) {
 }
 });
     </script>
+
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
+
+<script type="text/javascript">
+
+document.addEventListener( 'DOMContentLoaded', function () {
+	new Splide( '#image-slider',{
+    rewind: true,
+  } ).mount();
+} );
+
+document.addEventListener( 'DOMContentLoaded', function () {
+    new Splide( '#image-slider2',{
+      rewind: true,
+    } ).mount();
+  } );
+</script>
+
   </body>
 </html>
