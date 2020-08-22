@@ -9,6 +9,8 @@
     <script src="https://preview.babylonjs.com/babylon.js"></script>
     <script src="https://preview.babylonjs.com/loaders/babylonjs.loaders.min.js"></script>
     <script src="https://code.jquery.com/pep/0.4.3/pep.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css">
+
   </head>
   <body>
       <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
@@ -57,7 +59,7 @@
       </br>
 <div class="container"> 
         <div class="columns">
-          <div class="column is-4  has-text-justified" id="margTop">
+          <div class="column is-4  has-text-justified" id="margTop" id="marg3">
             <p class="is-size-6">
               Proto-typ zajmuję się kompleksową realizacją projektów z branży budowy maszyn, urządzeń oraz konstrukcji. Poniżej znajdziesz szczegółowe informację o zakresie wykonywanych usług. W zakładce projekty znajdziesz realizacje wykonanych zadań. 
               </br>
@@ -66,9 +68,10 @@
              </p>
             
           </div>
-          <div class="column border minmax">
+          <div class="column border minmax" id="marg3">
             <canvas class="outline" id="renderCanvas" touch-action="none"></canvas>
             <div class="has-text-centered">
+            </br>
               <p>
                 Użyj myszki aby poruszyć, zbliżyć lub oddalić model 3D
               </p>
@@ -79,13 +82,16 @@
   </br>
 </br>
   <div class="columns">
-    <div class="column is-5  has-text-justified">
+    <div class="column is-6  has-text-justified">
+      <figure class="image max200">
+        <img src="./photo/part.svg">
+      </figure>
+    </br>
       <p class="is-size-5">
         Projektowanie części i maszyn
       </p>
     </br>
-        <p class="is-size-6">Zajmujem się projektowaniem części i maszyn dla różnych gałęzi przemysłu. Korzystamy z nowoczesnego oprogramowania pozwalającego na tworzenie dokumentacji konstrukcyjnej. Najczęściej wykonujemy projekty dotyczące: </p>
-  </br>
+        <p class="is-size-6">Zajmujemy się projektowaniem części i maszyn dla różnych gałęzi przemysłu. Korzystamy z nowoczesnego oprogramowania pozwalającego na tworzenie dokumentacji konstrukcyjnej. Najczęściej wykonujemy projekty dotyczące: </p>
         <dl class="is-size-6">
           <li>Tworzenia dokumentacji do istniejących części.</li>
           <li>Wykonywania modeli 3D na podstawie dostarczonej dokumentacji 2D.</li>
@@ -95,56 +101,39 @@
           <li>Projektowana i wykonywania płyt cieni przeznaczonych do magazynowania narzędzi i przyrządów.</li>
         </dl> 
       </br>
-        <div class="line is-hidden-touch"></div>
-    </br>
-        <figure class="image">
-          <img src="./photo/1.png">
-        </figure>
-      </br>
     </div>
 
-  <div class="column has-text-justyfied">
-    <figure class="image">
-      <img src="./photo/33.png">
+  <div class="column has-text-justified">
+    <figure class="image max200">
+      <img src="./photo/calliper.svg">
     </figure>
-  </br>
-    <div class="line is-hidden-touch"></div>
   </br>
     <p class="is-size-5">
       Wsparcie technologiczne
     </p>
   </br>
       <p class="is-size-6">
-        Oferujemy szeroko rozumiane wsparcie techniczne. Realizujemy zlecenia dotyczące wsparcia technologicznego oraz tworzenia dokumentacji technologicznej. Wykonujemy technologie wykonania części, technologie montażu, instrukcje użytkowania, schemty, katalogi oraz pozostałe dokumenty techniczne.
+        Oferujemy szeroko rozumiane wsparcie techniczne. Realizujemy zlecenia dotyczące wsparcia technologicznego oraz tworzenia dokumentacji technologicznej. Nie ograniczamy się tylko do tworzenia dokumentacji konstrukcyjnej. Wykonujemy technologie wykonania części, technologie montażu, instrukcje użytkowania, schemty, katalogi oraz pozostałe dokumenty techniczne. Poznając park maszynowy klienta możemy brać udział w tworzeniu instrukcji stanowiskowaych oraz instrukcji wykonywania danej czynności lub operacji. 
       </p>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-5  has-text-justified">
+    <div class="column is-6  has-text-justified">
+      <figure class="image max200">
+        <img src="./photo/monitor.svg">
+      </figure>
+    </br>
       <p class="is-size-5">
         Wizualizacje
       </p>
     </br>
         <p class="is-size-6">Wykonujemy fotorealistyczne wizualizacje produktów przeznaczone do stron internetowych, prezentacji oraz materiałów promocyjnych. Tworzymy realistyczne modele oraz animacje na podstawe dokumentacji konstrukcyjnej. Wykonuję interaktywne modele 3D przeznaczone do publikacjin na stronach internetowych.</p>
-      </br>
-        <div class="line is-hidden-touch"></div>
-    </br>
-    <div id="but" style="display: flex;">
-    <button onclick="picture()" id="abs" class="button is-danger is-outlined">Zrób rysunek!</button>
-    </div>
-        <figure class="image">
-          <img id="bigpic" src="bigpic" style="display:none;" />
-        </figure>
-
-    </br>
   </div>
 
-  <div class="column has-text-justyfied">
-    <figure class="image">
-      <img src="./photo/bot2.jpg">
+  <div class="column has-text-justified">
+    <figure class="image max200">
+      <img src="./photo/lathe.svg">
     </figure>
-  </br>
-    <div class="line is-hidden-touch"></div>
   </br>
     <p class="is-size-5">
       Zlecanie produkcji
@@ -156,8 +145,51 @@
     </div>
   </div>
 </br>
-</br>
 </div>
+
+<div id="colour">
+<div class="container"> 
+<div id="image-slider" class="splide has-text-centered">
+</br>
+  <p class="is-size-4">
+    Wybrane projekty
+  </p>
+</br>
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide"><img src="photo/one.png">
+        <p class="is-size-5">
+        </br>
+          Wykonanie projektu automatycznego chwytaka.
+          </p>
+        </br>
+      </br>
+        </p>
+      </li>
+      <li class="splide__slide"><img src="photo/two.png">
+        <p class="is-size-5">
+        </br>
+          Zaprojektowanie oraz zlecenie produkcji uchwytu do przenoszenia części.
+          </p>
+        </br>
+      </br>
+        </p>
+      </li>
+      <li class="splide__slide"><img src="photo/three.png">
+      <p class="is-size-5">
+      </br>
+          Odtworzenie dokumentacji złużytej częsci i zlecenie jej wykonania.
+    </br>
+  </br>
+    </p>
+      </p>
+    </li>  
+    </ul>
+  </div>
+</div>
+</div>
+</div>
+
         <footer class="footer">
             <div class="content has-text-centered">
               <p>
@@ -257,6 +289,16 @@ dude.rotate(ax, Math.PI / 200, BABYLON.Space.LOCAL);
               engine.resize();
       });
   </script>
+
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
+
+<script type="text/javascript">
+document.addEventListener( 'DOMContentLoaded', function () {
+	new Splide( '#image-slider',{
+    rewind: true,
+  } ).mount();
+} );
+</script>
 
   </body>
 </html>

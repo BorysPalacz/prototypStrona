@@ -6702,6 +6702,7 @@ body.has-navbar-fixed-bottom {
   position: relative;
   width: 3.5rem;
   margin-left: auto;
+  margin-top:1.5rem;
 }
 
 .navbar-burger span {
@@ -7535,9 +7536,7 @@ label.panel-block:hover {
   flex-basis: 0;
   flex-grow: 1;
   flex-shrink: 1;
-  padding: 0.2rem;
-  margin-left: 3rem;
-  margin-right: 3rem;
+  padding: 1rem;
 }
 
 .columns.is-mobile > .column.is-narrow {

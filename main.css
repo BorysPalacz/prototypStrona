@@ -101,3 +101,14 @@ button::-moz-focus-inner {
 #margTop{
 	margin-top: 3rem;
 }
+.max200{
+	width: 200px;
+	margin: 0 auto;
+}
+#marg3{
+	margin-left: 3rem;
+	margin-right: 3rem;
+}
+#colour{
+	background-color: #DBDEE7;
+}
