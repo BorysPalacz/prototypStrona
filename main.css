@@ -85,7 +85,8 @@ button{
 	margin: 0 auto;
 }
 #bigpic {
-	height: 400px;
+	max-height: 400px;
+	margin-top: 206px;
 }
 #but{
 	height: 400px;
@@ -112,3 +113,14 @@ button::-moz-focus-inner {
 #colour{
 	background-color: #DBDEE7;
 }
+.isblue{
+	color: #546d9e;
+}
+@media screen and (max-width: 768px) {
+	#margTop{
+		margin-top: 1rem;
+	}
+	#bigpic {
+		margin-top: 1rem;
+	}
+  }
