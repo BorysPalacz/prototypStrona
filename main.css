@@ -128,4 +128,8 @@ button::-moz-focus-inner {
 	#bigpic {
 		margin-top: 1rem;
 	}
+	#marg3{
+		margin-left: 0;
+		margin-right: 0;
+	}
   }
