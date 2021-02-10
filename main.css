@@ -118,8 +118,8 @@ button::-moz-focus-inner {
 }
 @media screen and (max-width: 768px) {
 	.mobile{
-		margin-left: 32px;
-		margin-right: 32px;
+		margin-left: 32px !important;
+		margin-right: 32px !important;
 	}
 	
 	#margTop{
