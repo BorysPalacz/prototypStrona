@@ -116,6 +116,7 @@ button::-moz-focus-inner {
 .isblue{
 	color: #546d9e;
 }
+.mob { display: none }
 @media screen and (max-width: 768px) {
 	.mobile{
 		margin-left: 32px !important;
@@ -132,4 +133,7 @@ button::-moz-focus-inner {
 		margin-left: 0 !important;
 		margin-right: 0 !important; 
 	}
+	.mob { display: block }
+	.deskt{ display: none }
   }
+
