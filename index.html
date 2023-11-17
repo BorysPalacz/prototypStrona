@@ -61,11 +61,12 @@
         <div class="columns">
           <div class="column is-4  has-text-justified" id="margTop" id="marg3">
             <p class="is-size-6">
-              I specialize in the comprehensive implementation of projects in the machine, device and construction industry. Below you can find detailed information about services performed. In the projects tab, you will find completed projects.
+              Borilab is a place where designs, parts, devices, prototypes are created. Together with companies and individuals, we bring ideas to life.
               </br>
             </br>
             <p>
-              I guarantee the highest level of performance of entrusted services. I am open to the offer of single orders or a cooperation on a multi-stage project. 
+              Founder of the borilab project is Borys. I'm a Mechanical Engineer, involved in mechanics since I can remember. In my spare time I develop my own projects, which you can read about in the blog tab. 
+          </p>
           </p>
           </div>
 
@@ -93,16 +94,15 @@
       </figure>
     </br>
       <p class="is-size-5">
-        Designing parts and machines
+        Designing
       </p>
     </br>
-        <p class="is-size-6">I design parts and machines for various types of industries. I use modern software that allows me to create construction documentation. Most often I carry out projects concerning: </p>
-        <dl class="is-size-6">
-          <li>Creating documentation for existing parts.</li>
-          <li>Preparing of 3D models based on the provided 2D documentation.</li>
-          <li>Redesigning parts and machines</li>
-          <li>Designing devices and workshop parts</li>
-          <li>Modification and adaptation of older machines to quality requirements.</li>
+    <p class="is-size-6" I design parts and machines for various industries. I use modern software that allows me to create design documentation. Most often I make: </p>
+      <dl class="is-size-6">
+        <li>Documentation for existing parts.</li>
+        <li>3D models based on provided 2D documentation.</li>
+        <li>Remanufacturing of used parts, documentation necessary for remanufacturing</li>
+        <li>Projects of jigs and workshop parts</li>
         </dl> 
       </br>
     </div>
@@ -117,7 +117,7 @@
     </p>
   </br>
       <p class="is-size-6">
-        I offer broadly understood technical support. I am creating technological documentation and also make technologies
+        I offer a wide range of technical support. I create technological documentation and also make technologies
         parts manufacturing, assembly technologies, instructions for use, diagrams, catalogs and
         other technical documents.
       </p>
@@ -148,6 +148,7 @@
       <p class="is-size-6">
         Using the experience and knowledge of production companies, I offer comprehensive support about outsourcing production. I deal with placing orders, searching for contractors and preparing quotations.
       </p>
+      </p>
     </div>
   </div>
 </br>
@@ -175,7 +176,7 @@
       <li class="splide__slide"><img src="photo/two.png">
         <p class="is-size-5">
         </br>
-        Designing a handle for carrying parts.
+        Designing a lathe chuck for special parts.
           </p>
         </br>
       </br>
@@ -184,7 +185,7 @@
       <li class="splide__slide"><img src="photo/three.png">
       <p class="is-size-5">
       </br>
-      Reconstruction of the documentation of the used part and ordering in production companies.
+      Recreation the documentation of the used part and make it.
     </br>
   </br>
     </p>
@@ -208,25 +209,25 @@
       Versatility
       </p>
       <p class="is-size-6">
-        I have knowledge in the field of technology and construction. That enable me to comprehensively execute a complex projects. Several years of activity in the industry allows me to efficiently find a contractor for your project.      </p>
+        Extensive knowledge of technology and engineering, which allows me to complete big projects comprehensively. Many years of activity in the industry allows me to efficiently find a contractor for your project.</p>
       <p class="is-size-5 isblue">
       </br>
        Flexibility
       </p>
       <p class="is-size-6">
-        I design parts and machines but I do not have my own production facilities. Thanks to this, I can devote my time only for technological tasks.</p>
+        I design parts and machines and I don't have big own manufacturing facility. As a result, I can completely spend my time on construction, technology tasks and prototypes.</p>
       <p class="is-size-5 isblue">
       </br>
         Quality
       </p>
       <p class="is-size-6">
-        I focus on the quality of the orders, not the quantity. I work with large corporations as well as micro-enterprises and private individuals.</p>
+        I focus on the quality of the work I do, rather than quantity. I work with micro-enterprises as well as individuals. Establishing cooperation I count on long-term cooperation, therefore I try to give each client the highest level of service.</p>
       <p class="is-size-5 isblue">
       </br>
         Innovation
       </p>
       <p class="is-size-6">
-        I am not afraid of innovative projects. I use modern software and non-standard solutions for work.      </p>
+        I am not afraid of innovative projects. I use modern software and non-standard solutions for work.</p>
     </div>
     <div class="column">
             <figure class="image">
@@ -284,7 +285,10 @@ scene.clearColor = new BABYLON.Color3(0.957, 0.957, 0.957);
 // Parameters: alpha, beta, radius, target position, scene
     var camera = new BABYLON.ArcRotateCamera("Camera", 0, 0, 0, new BABYLON.Vector3(0, 0, 0), scene);
     var light = new BABYLON.HemisphericLight("HemiLight", new BABYLON.Vector3(4, 4, 1), scene);
-        scene.activeCamera.fov = 0.55;
+    light.diffuse = new BABYLON.Color3(0, 0, 0);
+    light.groundColor = new BABYLON.Color3(0.9, 0.9, 0.9);
+
+        scene.activeCamera.fov = 0.5;
 // Positions the camera overwriting alpha, beta, radius
     camera.setPosition(new BABYLON.Vector3(-214, 76, -250));
 
@@ -294,7 +298,7 @@ scene.clearColor = new BABYLON.Color3(0.957, 0.957, 0.957);
 // Material
 var metal = new BABYLON.StandardMaterial;
 metal.name = "metal";
-metal.diffuseColor = new BABYLON.Color3(0.19, 0.16, 0.16);
+metal.diffuseColor = new BABYLON.Color3(0.329, 0.427, 0.619);
 
     // The first parameter can be used to specify which mesh to import. Here we import all meshes
 var part = BABYLON.SceneLoader.ImportMesh("","https://raw.githubusercontent.com/BorysPalacz/prototypStrona/master/", "icp.glb", scene, function (newMeshes) {
