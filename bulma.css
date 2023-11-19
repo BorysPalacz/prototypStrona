@@ -354,7 +354,7 @@ a strong {
 }
 
 a:hover {
-  color: #cc2929;
+  color: #546d9e;
 }
 
 code {
@@ -6789,7 +6789,7 @@ a.navbar-item:hover, a.navbar-item.is-active,
 }
 
 .navbar-item img {
-  max-height: 5.5rem;
+  max-height: 8rem;
 }
 
 .navbar-item.has-dropdown {
@@ -10277,8 +10277,8 @@ label.panel-block:hover {
 }
 
 .footer {
-  color: aliceblue;
-  background-color: #546d9e;
+  color: #4a4a4a;
+  background-color: #DBDEE7;
   padding: 1rem 1.5rem 1rem;
 }
 /*# sourceMappingURL=bulma.css.map */
